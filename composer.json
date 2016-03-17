@@ -1,0 +1,17 @@
+{
+  "name": "misfist/rebuild-foundation-cpt",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "description": "Custom Post Types for Rebuild Foundation",
+  "homepage": "https://github.com/misfist/rebuild-foundation-cpt",
+  "authors": [
+    {
+      "name": "Pea Lutz",
+      "email": "pea@misfist.com",
+      "homepage": "https://github.com/misfist"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ]
+}
